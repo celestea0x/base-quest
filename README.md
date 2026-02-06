@@ -4,3 +4,4 @@ ikinci adım
 ücüncü adım
 dörduncu adım
 besnci adım
+altıncı adım
