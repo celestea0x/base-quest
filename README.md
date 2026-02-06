@@ -8,3 +8,4 @@ altıncı adım
 yedinci adım
 sekizinci adım
 dokuzuncu adım
+onuncu adım
