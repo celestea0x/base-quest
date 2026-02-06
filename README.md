@@ -7,3 +7,4 @@ besnci adım
 altıncı adım
 yedinci adım
 sekizinci adım
+dokuzuncu adım
