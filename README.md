@@ -1,11 +1,12 @@
 # base-quest
 Base görevleri için ilk adım.
-ikinci adım
-ücüncü adım
-dörduncu adım
-besnci adım
-altıncı adım
-yedinci adım
-sekizinci adım
-dokuzuncu adım
-onuncu adım
+feat: implement smart contract integration for Base network
+fix: resolve gas estimation issues on Base Goerli testnet
+refactor: optimize transaction polling logic for better performance
+docs: update README with detailed deployment instructions for Base
+chore: update dependencies to support latest Base node versions
+feat: add multi-signature wallet support for contract deployments
+test: implement unit tests for cross-chain bridge functionality
+perf: reduce contract bytecode size to stay within Base limits
+security: enhance private key management using environment variables
+feat: integrate Etherscan API for automated transaction verification
